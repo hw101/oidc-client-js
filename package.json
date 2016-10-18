@@ -44,6 +44,7 @@
     "webpack-stream": "^3.2.0"
   },
   "dependencies": {
+    "global": "^4.3.1",
     "jsrsasign": "^5.0.7"
   },
   "peerDependencies": {
